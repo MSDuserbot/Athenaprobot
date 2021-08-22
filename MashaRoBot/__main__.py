@@ -88,8 +88,9 @@ buttons = [
         InlineKeyboardButton(text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs ❔", callback_data="help_back"),
     ],
     [
-   
-        
+        InlineKeyboardButton(text="𝑪𝒉𝒂𝒕 𝑮𝒓𝒐𝒖𝒑📢", url="https://t.me/tamilpublicsquare"),
+    ],
+    [
         InlineKeyboardButton(
             text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/athenasupportgrp"
         ),
