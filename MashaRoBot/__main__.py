@@ -357,8 +357,8 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Masha's licensed under the GNU General Public License v3.0_
-                 Here is the [Contact My Owner](https://t.me/TERA_BAAP_VILLAIN_XD).
-                 If you have any question about Masha, let us know at @AndreaSupportChat.""",
+                 Here is the [My Owner](https://t.me/My_Dear_lightbright)
+                 If you have any question about Masha, let us know at @Athenasupportgrp.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
