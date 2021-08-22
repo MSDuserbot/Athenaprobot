@@ -74,14 +74,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hellow My name is` *Eʟɪsᴀ 🌟*
+`Hellow My name is` *✰𝕬𝕥𝔥𝕖𝖆✰*
 `I'm here to help you manage your groups! Hit Help button below to find out more about how to use me to my full potential.` 
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ 🎉", url="t.me/AndreaBetaRoBot?startgroup=true"),
+            text="Aᴅᴅ Mᴇ 🎉", url="t.me/athenaprobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Aʙᴏᴜᴛ 🔖", callback_data="masha_"),
@@ -89,9 +89,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Sᴏᴜʀᴄᴇ 💫", callback_data="source_"),
+        
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/AndreaSupportChat"
+            text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/athenasupportgrp"
         ),
     ],
 ]
