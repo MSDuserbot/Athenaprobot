@@ -349,7 +349,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text="""  I'm *Andrea Beta*, a powerful group management bot built to help you manage your group easily.
+            text="""  I'm *𝘈𝘵𝘩𝘦𝘯𝘢 𝘉𝘰𝘵*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
