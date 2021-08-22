@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ 🎉", url="t.me/athenaprobot?startgroup=true"),
+            text="Aᴅᴅ Mᴇ 🎉", url="t.me/athena_probot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Aʙᴏᴜᴛ 🔖", callback_data="masha_"),
