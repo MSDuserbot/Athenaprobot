@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hellow My name is` *✰ 𝕬𝕥𝔥𝕖𝖆 𝕭𝕠𝖙 ✰*
+`Hellow My name is` *✰ 𝕬𝕥𝔥𝔢𝕟𝖆 𝕭𝕠𝖙 ✰*
 `I'm here to help you manage your groups! Hit Help button below to find out more about how to use me to my full potential.` 
 """
 
