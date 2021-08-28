@@ -94,7 +94,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Cʜᴀᴛᴛɪɴɢ Gʀᴏᴜᴘ 📊", url="https://t.me/tamilpublicsquare"),
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/athenasupportgrp"
+            text="Sᴜᴘᴘᴏʀᴛ 📢", url="https://t.me/athena_support"
         ),
     ],
 ]
